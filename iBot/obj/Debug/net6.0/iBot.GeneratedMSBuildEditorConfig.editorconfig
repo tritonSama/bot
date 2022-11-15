@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = iBot
+build_property.RootNamespace = iBot
+build_property.ProjectDir = C:\Users\jhenry9\source\repos\iBot 2023 simp\iBot\iBot\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jhenry9\source\repos\iBot 2023 simp\iBot\iBot
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-edqbybfup3
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/ActiveRanLoads/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlUmFuTG9hZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/ActiveRanLoads/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlUmFuTG9hZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/ActiveRanLoads/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlUmFuTG9hZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/ActiveRanLoads/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlUmFuTG9hZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/ActiveRanLoads/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZlUmFuTG9hZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/AdmActiveDocumentsDefaults/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtQWN0aXZlRG9jdW1lbnRzRGVmYXVsdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/AdmActiveDocumentsDefaults/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtQWN0aXZlRG9jdW1lbnRzRGVmYXVsdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/AdmActiveDocumentsDefaults/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtQWN0aXZlRG9jdW1lbnRzRGVmYXVsdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/AdmActiveDocumentsDefaults/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtQWN0aXZlRG9jdW1lbnRzRGVmYXVsdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/AdmActiveDocumentsDefaults/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtQWN0aXZlRG9jdW1lbnRzRGVmYXVsdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/X500/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWDUwMFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/X500/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWDUwMFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/X500/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWDUwMFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/X500/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWDUwMFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/X500/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWDUwMFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhenry9/source/repos/iBot 2023 simp/iBot/iBot/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2tld6xqnre

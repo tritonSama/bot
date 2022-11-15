@@ -1,0 +1,114 @@
+/* _content/iBot/Views/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-edqbybfup3] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-edqbybfup3] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-edqbybfup3] {
+    font-size: 1.1rem;
+}
+
+.oi[b-edqbybfup3] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-edqbybfup3] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-edqbybfup3] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-edqbybfup3] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-edqbybfup3]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-edqbybfup3]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-edqbybfup3]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-edqbybfup3] {
+        display: none;
+    }
+
+    .collapse[b-edqbybfup3] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
+/* _content/iBot/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+
+a.navbar-brand[b-2tld6xqnre] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-2tld6xqnre] {
+  color: #0077cc;
+}
+
+.btn-primary[b-2tld6xqnre] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-2tld6xqnre], .nav-pills .show > .nav-link[b-2tld6xqnre] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-2tld6xqnre] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-2tld6xqnre] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-2tld6xqnre] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-2tld6xqnre] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-2tld6xqnre] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

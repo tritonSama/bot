@@ -1,0 +1,78 @@
+﻿@model iBot.Models.IbotDevelopment.ActiveRanLoad
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ActiveRanLoad</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ran" class="control-label"></label>
+                <input asp-for="Ran" class="form-control" />
+                <span asp-validation-for="Ran" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customer" class="control-label"></label>
+                <input asp-for="Customer" class="form-control" />
+                <span asp-validation-for="Customer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TechPoc" class="control-label"></label>
+                <input asp-for="TechPoc" class="form-control" />
+                <span asp-validation-for="TechPoc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="WbsElement" class="control-label"></label>
+                <input asp-for="WbsElement" class="form-control" />
+                <span asp-validation-for="WbsElement" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fund" class="control-label"></label>
+                <input asp-for="Fund" class="form-control" />
+                <span asp-validation-for="Fund" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Labor" /> @Html.DisplayNameFor(model => model.Labor)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Travel" /> @Html.DisplayNameFor(model => model.Travel)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Procurement" /> @Html.DisplayNameFor(model => model.Procurement)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Active" class="control-label"></label>
+                <input asp-for="Active" class="form-control" />
+                <span asp-validation-for="Active" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Projectcode" class="control-label"></label>
+                <input asp-for="Projectcode" class="form-control" />
+                <span asp-validation-for="Projectcode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
